@@ -10,7 +10,7 @@
 
 Built with pure **HTML, CSS, and JavaScript** — no frameworks, no bloat. Deploy anywhere in seconds.
 
----
+----
 
 ## 🎯 Who Is This For?
 
