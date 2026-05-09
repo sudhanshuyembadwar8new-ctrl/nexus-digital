@@ -12,7 +12,7 @@ Built with pure **HTML, CSS, and JavaScript** — no frameworks, no bloat. Deplo
 
 ----
 
-## 🎯 Who Is This For?
+## 🎯 Who Is This For?                 
 
 | Audience | Why It's For Them |
 |---|---|
