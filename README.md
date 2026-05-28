@@ -2,20 +2,20 @@
 
 > **Get your shit done.** — A fully custom digital agency website built for real businesses that want results, not excuses.
 
----
+---                   
 
 ## 📌 What Is This?
 
 **Nexus Digital** is a multi-page agency website designed to attract and convert local small business clients. It presents services, showcases portfolio work, explains the process, and captures leads — all in one clean, fast, no-backend site.
-
+                    
 Built with pure **HTML, CSS, and JavaScript** — no frameworks, no bloat. Deploy anywhere in seconds.
 
 ----
 
-## 🎯 Who Is This For?                 
+## 🎯 Who Is This For?                                         
 
 | Audience | Why It's For Them |
-|---|---|
+|---|---|                           
 | **Freelancers** | Use it as your own agency front to pitch clients |
 | **Small Digital Agencies** | Ready-made professional web presence |
 | **Local Businesses (clients)** | Shows what you offer before they even call |
