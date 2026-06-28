@@ -1,8 +1,8 @@
-# 🚀 Nexus Digital Agency
+# 🚀 Nexus Digital Agency           
 
-> **Get your shit done.** — A fully custom digital agency website built for real businesses that want results, not excuses.
+> **Get your shit done.** — A fully custom digital agency website built for real businesses that want results, not excuses.               
 
----                   
+---                                        
 
 ## 📌 What Is This?
 
